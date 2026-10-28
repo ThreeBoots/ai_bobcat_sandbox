@@ -1,0 +1,70 @@
+
+ /*SITE SPECIFIC CSS*/
+
+.journal-bg {
+  	background-color: #937cb9; 
+}
+.navbar {
+	background-color: #7d66a2;
+}
+
+
+.journal-header .journal-logo {
+	width: 340px;
+}
+.journal-header .society-logo {
+	width: 95px;
+}
+
+
+.journal-header .center-inner-row {
+	padding-bottom: 12px;
+	padding-top: 12px;
+}
+
+
+.featurePanel {
+	background-image: url(//academic.oup.com/data/sitebuilderassetsoriginals/preview/images/mnras/mnras_feature_panel.jpg);
+}
+.featurePanelInner {
+	background: rgba(0, 0, 0, 0.6);
+}
+.featurePanel h2, .featurePanel p, .featurePanel a, .featurePanel a:hover {
+	color: #f6f6f6 !important;
+} 
+
+
+.widget-dynamic__underbar.journal-bg {
+	background-color: #937cb9;
+}
+#cloudCMS .panels .widget-dynamic-title::after, #cloudCMS .panels .widgetHead h2::after, #cloudCMS .rowHead h2::after{
+	background-color: #937cb9;
+}
+
+
+.pg_index .location-main-content>.widget-dynamic>.widget-dynamic-inner-wrap>.widget-dynamic[data-count]:nth-child(4):not(.row-related-titles){
+	background-color: #937cb9;
+}
+.pg_index .location-main-content>.widget-dynamic>.widget-dynamic-inner-wrap>.widget-dynamic[data-count]:nth-child(4):not(.row-related-titles) .widget-dynamic__header h2{
+	color: #ffffff;
+}
+.pg_index .location-main-content>.widget-dynamic>.widget-dynamic-inner-wrap>.widget-dynamic[data-count]:nth-child(4):not(.row-related-titles) .widget-dynamic__underbar.journal-bg{
+	background-color: #ffffff;
+}
+#cloudCMS .row:nth-child(4):not(.rowForRelatedTitles) {
+	background-color: #937cb9;
+}
+#cloudCMS .row:nth-child(4):not(.rowForRelatedTitles) .rowHead h2 {
+	color: #ffffff;
+}
+#cloudCMS .row:nth-child(4):not(.rowForRelatedTitles) .rowHead h2::after {
+	background-color: #ffffff;
+}
+
+
+.journal-footer.journal-bg {
+	background-color: #7d66a2;
+}
+img.journal-footer-affiliations-logo {
+	width: 290px;
+}

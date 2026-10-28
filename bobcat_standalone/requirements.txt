@@ -1,0 +1,6 @@
+anthropic
+beautifulsoup4
+lxml
+pypdfium2
+openpyxl
+pandas
